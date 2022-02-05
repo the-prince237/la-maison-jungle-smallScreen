@@ -1,4 +1,6 @@
 import '../styles/Cart.css';
+import {BsFillCartFill} from 'react-icons/bs';
+import {BsCartX} from 'react-icons/bs';
 
 function Cart({cartList, setCartList, cartIsOpen, setCartIsOpen}) {
 
@@ -29,11 +31,11 @@ function Cart({cartList, setCartList, cartIsOpen, setCartIsOpen}) {
                             <a href='https://wa.me/message/DSBSTZI4RLSNL1'><div className='cart-buying-button'>ACHETER</div></a>
                         </div>
                     }
-                    <img className='set-cart-visibility-button close-cart-button' src='#' alt='panier(x)' title='fermer le panier' onClick={()=>setCartIsOpen(false)}/>
+                    <BsCartX color='#d22' size="2em" className='set-cart-visibility-button close-cart-button' alt='panier(x)' title='fermer le panier' onClick={()=>setCartIsOpen(false)}/>
 
                 </div>
             : <div className='cart closed-cart'>
-                <img className='set-cart-visibility-button open-cart-button' src='#' alt='panier' title='panier' onClick={()=>setCartIsOpen(true)}/>
+                <BsFillCartFill color='#31b572' size="2em" className='set-cart-visibility-button open-cart-button' alt='panier' title='panier' onClick={()=>setCartIsOpen(true)}/>
               </div>
             }
         </div>
