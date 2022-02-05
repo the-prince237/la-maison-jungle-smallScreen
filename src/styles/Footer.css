@@ -1,0 +1,26 @@
+footer{
+    padding-bottom: 100px;
+    background-color: #31b572;
+    color: white;
+    border-top: solid 2px #1c6e45;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+.footer-sn{
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    object-fit: cover;
+    border: solid white 2px;
+}
+
+mailto{
+    cursor: pointer;
+}

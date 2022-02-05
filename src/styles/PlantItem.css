@@ -1,0 +1,37 @@
+.plant-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 125px;
+}
+
+.plant-item-cover{
+    width: 125px;
+    height: 125px;
+	object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px #ddd, -1px -1px 2px #ddd, -1px 1px 2px #ddd, 1px -1px 2px #ddd;
+}
+
+.plant-item-name{
+    width: 100%;
+    background-color: #31b572;
+    font-weight: 600;
+    color: white;
+    padding: 5px;
+    border-left: solid 3px #289b62;
+}
+
+.plant-item-price{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 20px;
+    padding: 4px;
+    border-radius: 7px 10px 7px  0;
+    background-color: #31b572;
+    color: white;
+    font-weight: 550;
+}
