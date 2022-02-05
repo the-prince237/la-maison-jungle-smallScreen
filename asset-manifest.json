@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/la-maison-jungle-smallScreen/static/css/main.26baf243.chunk.css",
-    "main.js": "/la-maison-jungle-smallScreen/static/js/main.6be6f7ba.chunk.js",
-    "main.js.map": "/la-maison-jungle-smallScreen/static/js/main.6be6f7ba.chunk.js.map",
-    "runtime-main.js": "/la-maison-jungle-smallScreen/static/js/runtime-main.8aa265f7.js",
-    "runtime-main.js.map": "/la-maison-jungle-smallScreen/static/js/runtime-main.8aa265f7.js.map",
-    "static/js/2.d821eb2d.chunk.js": "/la-maison-jungle-smallScreen/static/js/2.d821eb2d.chunk.js",
-    "static/js/2.d821eb2d.chunk.js.map": "/la-maison-jungle-smallScreen/static/js/2.d821eb2d.chunk.js.map",
-    "static/js/3.7e6e88e2.chunk.js": "/la-maison-jungle-smallScreen/static/js/3.7e6e88e2.chunk.js",
-    "static/js/3.7e6e88e2.chunk.js.map": "/la-maison-jungle-smallScreen/static/js/3.7e6e88e2.chunk.js.map",
+    "main.js": "/la-maison-jungle-smallScreen/static/js/main.25382495.chunk.js",
+    "main.js.map": "/la-maison-jungle-smallScreen/static/js/main.25382495.chunk.js.map",
+    "runtime-main.js": "/la-maison-jungle-smallScreen/static/js/runtime-main.622a1dd5.js",
+    "runtime-main.js.map": "/la-maison-jungle-smallScreen/static/js/runtime-main.622a1dd5.js.map",
+    "static/js/2.3d316416.chunk.js": "/la-maison-jungle-smallScreen/static/js/2.3d316416.chunk.js",
+    "static/js/2.3d316416.chunk.js.map": "/la-maison-jungle-smallScreen/static/js/2.3d316416.chunk.js.map",
+    "static/js/3.bfa6b319.chunk.js": "/la-maison-jungle-smallScreen/static/js/3.bfa6b319.chunk.js",
+    "static/js/3.bfa6b319.chunk.js.map": "/la-maison-jungle-smallScreen/static/js/3.bfa6b319.chunk.js.map",
     "index.html": "/la-maison-jungle-smallScreen/index.html",
     "static/css/main.26baf243.chunk.css.map": "/la-maison-jungle-smallScreen/static/css/main.26baf243.chunk.css.map",
-    "static/js/2.d821eb2d.chunk.js.LICENSE.txt": "/la-maison-jungle-smallScreen/static/js/2.d821eb2d.chunk.js.LICENSE.txt",
+    "static/js/2.3d316416.chunk.js.LICENSE.txt": "/la-maison-jungle-smallScreen/static/js/2.3d316416.chunk.js.LICENSE.txt",
     "static/media/basil.be00474e.jpg": "/la-maison-jungle-smallScreen/static/media/basil.be00474e.jpg",
     "static/media/cactus.a71c2062.jpg": "/la-maison-jungle-smallScreen/static/media/cactus.a71c2062.jpg",
     "static/media/calathea.455c33e2.jpg": "/la-maison-jungle-smallScreen/static/media/calathea.455c33e2.jpg",
@@ -25,9 +25,9 @@
     "static/media/whatsap-logo.17f673f5.png": "/la-maison-jungle-smallScreen/static/media/whatsap-logo.17f673f5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8aa265f7.js",
-    "static/js/2.d821eb2d.chunk.js",
+    "static/js/runtime-main.622a1dd5.js",
+    "static/js/2.3d316416.chunk.js",
     "static/css/main.26baf243.chunk.css",
-    "static/js/main.6be6f7ba.chunk.js"
+    "static/js/main.25382495.chunk.js"
   ]
 }
