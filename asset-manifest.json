@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/la-maison-jungle-smallScreen/static/css/main.26baf243.chunk.css",
+    "main.js": "/la-maison-jungle-smallScreen/static/js/main.6be6f7ba.chunk.js",
+    "main.js.map": "/la-maison-jungle-smallScreen/static/js/main.6be6f7ba.chunk.js.map",
+    "runtime-main.js": "/la-maison-jungle-smallScreen/static/js/runtime-main.8aa265f7.js",
+    "runtime-main.js.map": "/la-maison-jungle-smallScreen/static/js/runtime-main.8aa265f7.js.map",
+    "static/js/2.d821eb2d.chunk.js": "/la-maison-jungle-smallScreen/static/js/2.d821eb2d.chunk.js",
+    "static/js/2.d821eb2d.chunk.js.map": "/la-maison-jungle-smallScreen/static/js/2.d821eb2d.chunk.js.map",
+    "static/js/3.7e6e88e2.chunk.js": "/la-maison-jungle-smallScreen/static/js/3.7e6e88e2.chunk.js",
+    "static/js/3.7e6e88e2.chunk.js.map": "/la-maison-jungle-smallScreen/static/js/3.7e6e88e2.chunk.js.map",
+    "index.html": "/la-maison-jungle-smallScreen/index.html",
+    "static/css/main.26baf243.chunk.css.map": "/la-maison-jungle-smallScreen/static/css/main.26baf243.chunk.css.map",
+    "static/js/2.d821eb2d.chunk.js.LICENSE.txt": "/la-maison-jungle-smallScreen/static/js/2.d821eb2d.chunk.js.LICENSE.txt",
+    "static/media/basil.be00474e.jpg": "/la-maison-jungle-smallScreen/static/media/basil.be00474e.jpg",
+    "static/media/cactus.a71c2062.jpg": "/la-maison-jungle-smallScreen/static/media/cactus.a71c2062.jpg",
+    "static/media/calathea.455c33e2.jpg": "/la-maison-jungle-smallScreen/static/media/calathea.455c33e2.jpg",
+    "static/media/filter.f42f5adf.jpg": "/la-maison-jungle-smallScreen/static/media/filter.f42f5adf.jpg",
+    "static/media/lyrata.2e915120.jpg": "/la-maison-jungle-smallScreen/static/media/lyrata.2e915120.jpg",
+    "static/media/mint.b83a3d2e.jpg": "/la-maison-jungle-smallScreen/static/media/mint.b83a3d2e.jpg",
+    "static/media/monstera.ec0819da.jpg": "/la-maison-jungle-smallScreen/static/media/monstera.ec0819da.jpg",
+    "static/media/olivier.b2908b40.jpg": "/la-maison-jungle-smallScreen/static/media/olivier.b2908b40.jpg",
+    "static/media/pothos.d72dc0ac.jpg": "/la-maison-jungle-smallScreen/static/media/pothos.d72dc0ac.jpg",
+    "static/media/succulent.f4329849.jpg": "/la-maison-jungle-smallScreen/static/media/succulent.f4329849.jpg",
+    "static/media/whatsap-logo.17f673f5.png": "/la-maison-jungle-smallScreen/static/media/whatsap-logo.17f673f5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aa265f7.js",
+    "static/js/2.d821eb2d.chunk.js",
+    "static/css/main.26baf243.chunk.css",
+    "static/js/main.6be6f7ba.chunk.js"
+  ]
+}
